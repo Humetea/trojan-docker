@@ -4,10 +4,12 @@
 	"description": "Deploy trojan on Heroku.",
 	"keywords": ["trojan"],
 	"env": {
-		
+		"PASSWORD": {
+			"description": "trojan password",
+			"value": "test"
 		}
 	},
-	"website": "https://www.baidu.com",
-	"repository": "https://github.com/Humetea/trojan-docker",
+	"website": "http://www.baidu.com",
+	"repository": "https://github.com/byxiaopeng/trojan-docker",
 	"stack": "container"
 }
