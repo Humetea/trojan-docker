@@ -4,9 +4,7 @@
 	"description": "Deploy trojan on Heroku.",
 	"keywords": ["trojan"],
 	"env": {
-		"PASSWORD": {
-			"description": "trojan password",
-			"value": "test"
+		
 		}
 	},
 	"website": "http://www.baidu.com",
